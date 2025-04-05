@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "name": "indices",
+      "type": {
+        "isSigned": false,
+        "bitWidth": 64
+      },
+      "nullable": true,
+      "metadata": {}
+    }
+  ],
+  "metadata": {},
+  "dictionaries": {}
+}
